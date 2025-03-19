@@ -9,7 +9,7 @@ This project focuses on predicting solar power output and detecting faulty solar
 
 Project Objectives
 
-✔ Predict solar power output using time-series models.
+✔ Predict solar power output using time-series models.//
 ✔ Detect faulty solar panels by identifying anomalies in performance data.
 ✔ Analyze sensor data to understand efficiency variations over time.
 
